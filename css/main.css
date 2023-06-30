@@ -1,0 +1,24 @@
+/* Styles for the left panel */
+.left-panel {
+  width: 200px;
+  background-color: #f1f1f1;
+  height: 100vh;
+  float: left;
+}
+
+.left-panel a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.left-panel a:hover {
+  background-color: #ccc;
+}
+
+/* Styles for the content area */
+.content {
+  margin-left: 220px;
+  padding: 20px;
+}
